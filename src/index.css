@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@theme {
+  --color-jade-blue: #165388;
+  --color-jade-blue2: rgba(22, 83, 136, 1);
+  --color-jade-yellow: #FCB614;
+  --color-jade-yellow2: #FFCD4E;
+  --color-jade-dark: #3B3D47;
+  --color-jade-gray: #F3F3F3;
+  --color-jade-lblue: #D8EEFF;
+  --color-jade-lblue2: #E9EFF4;
+}
