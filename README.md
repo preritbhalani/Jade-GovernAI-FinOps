@@ -40,6 +40,11 @@ Before you begin, ensure you have met the following requirements:
    npm install
    ```
 
+   If using a newer version of Node.js, install the dependencies using the following command:
+   ```bash
+   npm install --legacy-peer-deps
+   ```
+
 ## How to Run the Application
 
 ### Development Mode
